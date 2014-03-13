@@ -225,7 +225,7 @@ hr {
 .tile {
   width: 10px;
   height: 10px;
-  line-height: 20px; }
+  line-height: 12px; }
   .tile.tile-position-1-1 {
     position: absolute;
     left: 0px;
@@ -16617,7 +16617,7 @@ hr {
   text-align: center;
   font-weight: bold;
   z-index: 10;
-  font-size: 55px;
+  font-size: 12px;
   -webkit-transition: 100ms ease-in-out;
   -moz-transition: 100ms ease-in-out;
   -webkit-transition-property: top, left;
@@ -16880,7 +16880,7 @@ hr {
   .tile {
     width: 57.5px;
     height: 57.5px;
-    line-height: 67.5px; }
+    line-height: 59.5px; }
     .tile.tile-position-1-1 {
       position: absolute;
       left: 0px;
